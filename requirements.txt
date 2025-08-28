@@ -1,0 +1,9 @@
+requests
+pandas
+tqdm
+numpy
+openai
+tiktoken
+numba
+scikit-learn
+google-generativeai
